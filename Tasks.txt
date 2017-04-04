@@ -1,1 +1,8 @@
-This is a text file. that Pete created and Othelle modified. im making changes too lol
+<<<<<<< HEAD
+This is a text file. that Pete created and Othelle modified
+||||||| merged common ancestors
+This is a text file. that Pete created and Othelle modified
+=======
+This is a text file. that Pete created and Othelle modified
+And then modified some more!
+>>>>>>> refs/remotes/origin/master
