@@ -5,4 +5,5 @@ This is a text file. that Pete created and Othelle modified
 =======
 This is a text file. that Pete created and Othelle modified
 And then modified some more!
+ad then re-modified!
 >>>>>>> refs/remotes/origin/master
